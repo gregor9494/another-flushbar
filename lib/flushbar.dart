@@ -7,7 +7,7 @@ import 'package:flutter/scheduler.dart';
 import 'flushbar_route.dart' as route;
 
 // ignore: constant_identifier_names
-const String FLUSHBAR_ROUTE_NAME = '/flushbarRoute';
+const String FLUSHBAR_ROUTE_NAME = '';
 
 typedef FlushbarStatusCallback = void Function(FlushbarStatus? status);
 typedef OnTap = void Function(Flushbar flushbar);
